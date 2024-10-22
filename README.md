@@ -1,1 +1,1 @@
-# JS
+# Learning JS from basics.
