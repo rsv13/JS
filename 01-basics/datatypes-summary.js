@@ -50,3 +50,15 @@ const myFunction = function(){
 console.log(typeof bigNumber);
 
 console.log(typeof Obj)
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack, Heap - Types of Memory
+
+// Primitive datatypes use Stack Memory
+
+// Non-Primitive datatypes use Heap Memory.
+
+let mySurvey = "SWSWBSSurveydotcom"
